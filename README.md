@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="kiro.jpg" alt="Kiro" width="220" />
+</p>
+
 # edu-neo-candy-tela
 
 Tela-flavoured Neo-Candy icon theme — colourful icons that pair with the [Tela](https://github.com/vinceliuice/Tela-icon-theme) design family. Part of the `~/EDU/` Neo-Candy series.
